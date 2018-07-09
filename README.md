@@ -3,7 +3,7 @@ test
 
 testrepo
 
-THis is an local update
+This is an local update
 
 Basic Markdown
 ===
